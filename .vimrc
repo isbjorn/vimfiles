@@ -7,8 +7,11 @@ call vundle#rc()
 " let Vundle manage Vundle
 " required! 
 Bundle 'gmarik/vundle'
+Bundle 'nanotech/jellybeans.vim'
 
 " My bundles
 "
 
 filetype plugin indent on     " required!
+
+colo jellybeans
