@@ -125,10 +125,14 @@ call vundle#rc()
 " required! 
 Bundle 'gmarik/vundle'
 
+Bundle 'tpope/vim-git'
 Bundle 'tpope/vim-fugitive'
 
 Bundle 'nanotech/jellybeans.vim'
 colo jellybeans
+
+Bundle 'derekwyatt/vim-scala'
+au BufRead,BufNewFile {*.scala} setl ft=scala
 
 filetype plugin indent on     " required!
 " "}}}
