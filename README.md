@@ -4,7 +4,8 @@
 mkdir ~/tmp
 mv -rf ~/.vim ~/tmp
 mv ~/.vimrc ~/tmp
-mv ~/.gvimrc ~/tmp```
+mv ~/.gvimrc ~/tmp
+```
 
 ## install
 ```
