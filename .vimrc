@@ -104,7 +104,8 @@ set splitbelow
 set splitright
 
 set list " display unprintable characters f12 - switches
-set listchars=tab:\ ·,eol:¬
+"set listchars=tab:\ ·,eol:¬
+set listchars=tab:\|\ ,eol:¬
 set listchars+=trail:·
 set listchars+=extends:»,precedes:«
 map <silent> <F12> :set invlist<CR>
