@@ -2,8 +2,8 @@
 
 ```
 mkdir ~/tmp
-mv -rf ~/.vim ~/tmp
-mv ~/.vimrc ~/tmp
+mv ~/.vim    ~/tmp
+mv ~/.vimrc  ~/tmp
 mv ~/.gvimrc ~/tmp
 ```
 
