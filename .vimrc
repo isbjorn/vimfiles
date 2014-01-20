@@ -103,7 +103,7 @@ set virtualedit=block
 set splitbelow
 set splitright
 
-set list " display unprintable characters f12 - switches
+"set list " display unprintable characters f12 - switches
 "set listchars=tab:\ ·,eol:¬
 set listchars=tab:\|\ ,eol:¬
 set listchars+=trail:·
